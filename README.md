@@ -103,7 +103,7 @@ Discord: lalit1211_
 
 
 <img width="80%" alt="" src="./" />
-<p align="center"><a href="https://github.com/lalit1211?tab=repositories">Hello Buddy, You can call me Jerry ×͜×. Usually, I change your ideas in to brand.</a></p>
+<p align="center">Hello Buddy, You can call me Jerry ×͜×. Usually, I change your ideas in to brand.</p>
 
 <br />
 
