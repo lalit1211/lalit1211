@@ -116,7 +116,7 @@ Discord: lalit1211_
 
 ----------------------------------------------------
 <p  align="center">
-    <a href="https://linkedin.com/in/lalit1211_" alt="LinkedIn">
+    <a href="https://linkedin.com/in/lalit1211" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
     </a>&nbsp;
     <a  href="https://instagram.com/lalit1211_" target="_blank">
