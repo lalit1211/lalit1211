@@ -83,7 +83,7 @@ const Lalit_Kumar = {
 <img align="left" src="https://github.com/lalit1211/lalit1211/blob/images/lalit.jfif" alt="lalit1211_ (DP)" width="280" style="border-radius: 10px" /> 
 
 ```csharp
-anordinaryusername@github
+lalit1211@github
 -------------------------
 OS: Window 10
 Pronouns: He/Him
