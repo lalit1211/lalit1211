@@ -127,3 +127,8 @@ Discord: lalit1211_
     </a>
 </p>
 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalit1211&show_icons=true&locale=en&layout=compact" alt="lalit1211" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalit1211&" alt="lalit1211" /></p>
