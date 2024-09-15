@@ -1,7 +1,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalit1211&label=Profile%20views&color=0e75b6&style=flat" alt="lalit1211" /> </p>
-```zsh
+
+```
 > Hi there 👋 Welcome to my GitHub! I'm Lalit Kumar, a full-stack web developer.
 ```
 
